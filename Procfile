@@ -1,1 +1,1 @@
-web: node init
+web: npm install
